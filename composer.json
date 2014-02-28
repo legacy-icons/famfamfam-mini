@@ -1,0 +1,27 @@
+{
+  "name": "kwipi/famfamfam-mini",
+	"version": "0.1.0",
+	"homepage": "https://github.com/kwipi/famfamfam-mini",
+	"description": "FamFamFam Mini icon pack",
+	"keywords": [
+		"icon",
+		"mini",
+		"img",
+		"famfamfam",
+		"png",
+		"gif"
+	],
+	"license": "MIT",
+  "authors": [
+		{
+			"name": "Kwipi",
+			"email": "contact@kwipi.org",
+			"homepage": "http://www.kwipi.org/",
+			"role": "Maintainer"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/kwipi/famfamfam-mini/issues/"
+	},
+	"type": "library"
+}
