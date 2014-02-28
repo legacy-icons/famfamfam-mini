@@ -1,0 +1,31 @@
+{
+  "name": "famfamfam-mini",
+	"version": "0.1.0",
+	"homepage": "https://github.com/kwipi/famfamfam-mini",
+	"description": "FamFamFam Mini icon pack",
+	"keywords": [
+		"icon",
+		"mini",
+		"img",
+		"famfamfam",
+		"png",
+		"gif"
+	],
+	"license": "MIT",
+  "author": "Kwipi",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kwipi/famfamfam-mini.git"
+  },
+	"bugs": {
+    "url": "https://github.com/kwipi/famfamfam-mini/issues"
+  },
+	"files": [
+		"img"
+	],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+	"dependencies": {},
+  "devDependencies": {}
+}
