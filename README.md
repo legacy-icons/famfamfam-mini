@@ -65,3 +65,6 @@ Get it with:
 bower install famfamfam-mini
 ```
 
+**Composer / Packagist**
+
+[famfamfam-mini on Packagist](https://packagist.org/packages/kwipi/famfamfam-mini)
