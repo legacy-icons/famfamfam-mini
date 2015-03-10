@@ -1,27 +1,33 @@
 {
-  "name": "kwipi/famfamfam-mini",
-	"version": "0.1.1",
-	"homepage": "https://github.com/kwipi/famfamfam-mini",
-	"description": "FamFamFam Mini icon pack",
-	"keywords": [
-		"icon",
-		"mini",
-		"img",
-		"famfamfam",
-		"png",
-		"gif"
-	],
-	"license": "MIT",
-  "authors": [
-		{
-			"name": "Kwipi",
-			"email": "contact@kwipi.org",
-			"homepage": "http://www.kwipi.org/",
-			"role": "Maintainer"
-		}
-	],
-	"support": {
-		"issues": "https://github.com/kwipi/famfamfam-mini/issues/"
-	},
-	"type": "library"
+  "name": "t1st3/famfamfam-mini",
+  "homepage": "https://github.com/T1st3/famfamfam-mini",
+  "description": "FamFamFam Mini icon pack",
+  "keywords": [
+    "icon",
+    "flag",
+    "img",
+    "famfamfam",
+    "png",
+    "gif"
+  ],
+  "license": "MIT",
+    "authors": [
+    {
+      "name": "T1st3",
+      "email": "contact@tiste.org",
+      "homepage": "http://www.tiste.org/",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/T1st3/famfamfam-mini/issues/"
+  },
+  "type": "library",
+  "extra": {
+    "component": {
+      "files": [
+        "img/*"
+      ]
+    }
+  }
 }
