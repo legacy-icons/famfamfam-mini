@@ -15,6 +15,9 @@
   "authors": [
     "t1st3 <contact@tiste.org> (http://www.tiste.org/)"
   ],
+  "main": [
+    "./img"
+  ],
   "ignore": [
     "bower_components",
     ".bowerrc",
