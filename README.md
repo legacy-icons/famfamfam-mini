@@ -2,6 +2,12 @@ famfamfam-mini
 ===============
 
 
+[![NPM version](https://img.shields.io/npm/v/famfamfam-mini.svg)](https://www.npmjs.org/package/famfamfam-mini)
+[![Bower version](https://img.shields.io/bower/v/famfamfam-mini.svg)](http://bower.io/search/?q=famfamfam-mini)
+[![Packagist version](https://img.shields.io/packagist/v/t1st3/famfamfam-mini.svg)](https://packagist.org/packages/t1st3/famfamfam-mini)
+
+
+
 About
 ----------
 
@@ -47,8 +53,6 @@ Get the package
 ----------
 
 **NPM**
-
-[famfamfam-mini on NPM](https://www.npmjs.org/package/famfamfam-mini)
 
 Get it with:
 
