@@ -31,7 +31,8 @@
     "README.md",
     ".editorconfig",
     ".travis.yml",
-    ".npmignore"
+    ".npmignore",
+    "src"
   ],
   "dependencies": {}
 }
