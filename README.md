@@ -94,3 +94,11 @@ bower install famfamfam-mini
 **Composer / Packagist**
 
 [famfamfam-mini on Packagist](https://packagist.org/packages/t1st3/famfamfam-mini)
+
+
+
+Dev dependencies (NPM)
+----------
+
+
+[![Dependency Status](https://img.shields.io/david/dev/T1st3/famfamfam-mini.svg)](https://david-dm.org/t1st3/famfamfam-mini)
