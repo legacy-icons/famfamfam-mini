@@ -28,9 +28,23 @@ All icons are supplied in GIF format.
 CSS spritesheets
 ----------
 
-In addition to the icons by themselves, this project also ships a CSS spritesheet for the icon-pack. Those spritesheet allows to load the entire icon-pack in just 1 image, and thus reduce HTTP calls.
+You can insert the icons directly into your HTML with a common IMG tag:
 
-All the positioning of the icons inside this alone image is made through CSS.
+```
+    <img alt="Refresh" src="dist/gif/action_refresh_blue.gif" width="16" height="11">
+```
+
+
+In addition to the icons by themselves, this project also ships a CSS spritesheet for the icon-pack. This spritesheet allows to load the entire icon-pack in just 1 image, and thus reduce HTTP calls.
+
+All the positioning of the icons inside this alone image is made through CSS, which allows you to just add block-type tags with the proper class and get the same result:
+
+```
+    <div class="famfamfam-mini action_refresh_blue"></div>
+```
+
+Just remember to add the CSS stylesheet to the HEAD of your HTML page!
+
 
 
 
