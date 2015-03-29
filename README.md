@@ -112,3 +112,41 @@ Though, it is just composed a few trivial json files and a Readme.
 
 
 
+
+Build (the whole project or your custom project)
+----------
+
+
+We use [Gulp](http://gulpjs.com/) to build the project, so if you want to re-build or customize this project, you'll need Gulp.
+
+After gulp is installed, and your CLI is pointed to your work directory, first install the dependencies:
+
+```
+     npm install
+```
+
+
+then, you can run the `gulp build` task to build the project:
+
+
+```
+     gulp build
+```
+
+
+
+
+**What the build task does?**
+
+First, it copies GIF files from the `src` folder, and pastes them to the `dist` folder.
+
+Then it creates a spritesheet from the GIF images located in the `src` folder, and thus creates the `sprite` folder in `dist`.
+
+If, for example you just want `action_stop` and `page_right` icons in a spritesheet, you just have to fork this project, point your CLI to the working directory, 
+empty the `src` directory, except `action_stop` and `page_right` icons in GIF format, and then run the `gulp build` task.
+
+You'll get the proper spritesheet and copies of the icons directly in the `dist` folder.
+
+
+
+
