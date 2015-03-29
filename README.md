@@ -7,6 +7,11 @@ famfamfam-mini
 [![Packagist version](https://img.shields.io/packagist/v/t1st3/famfamfam-mini.svg)](https://packagist.org/packages/t1st3/famfamfam-mini)
 
 
+[![Dependency Status](https://img.shields.io/david/dev/T1st3/famfamfam-mini.svg)](https://david-dm.org/t1st3/famfamfam-mini)
+[![Build Status](https://img.shields.io/travis/T1st3/famfamfam-mini.svg)](https://travis-ci.org/T1st3/famfamfam-mini)
+
+
+
 
 About
 ----------
@@ -52,6 +57,37 @@ Just remember to add the CSS stylesheet to the HEAD of your HTML page!
 
 
 
+Get the package with NPM
+----------
+
+Just run the following on the CLI (provided your CLI is directed to your work directory)
+
+```
+npm install famfamfam-mini
+```
+
+
+
+Get the package with Bower
+----------
+
+Just run the following on the CLI (provided your CLI is directed to your work directory)
+
+```
+bower install famfamfam-mini
+```
+
+
+Get the package with Packagist
+----------
+
+[famfamfam-mini on Packagist](https://packagist.org/packages/t1st3/famfamfam-mini)
+
+
+
+
+
+
 
 Original readme (from author of the icons)
 ----------
@@ -73,40 +109,6 @@ All the content of this repository (excepted the icon pack)
 is licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 Though, it is just composed a few trivial json files and a Readme.
-
-
-
-Get the package
-----------
-
-**NPM**
-
-Get it with:
-
-```
-npm install famfamfam-mini
-```
-
-
-**Bower**
-
-Get it with:
-
-```
-bower install famfamfam-mini
-```
-
-**Composer / Packagist**
-
-[famfamfam-mini on Packagist](https://packagist.org/packages/t1st3/famfamfam-mini)
-
-
-
-Dev dependencies and build status
-----------
-
-[![Dependency Status](https://img.shields.io/david/dev/T1st3/famfamfam-mini.svg)](https://david-dm.org/t1st3/famfamfam-mini)
-[![Build Status](https://img.shields.io/travis/T1st3/famfamfam-mini.svg)](https://travis-ci.org/T1st3/famfamfam-mini)
 
 
 
