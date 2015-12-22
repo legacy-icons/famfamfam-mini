@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>famfamfam-mini</id>
+    <version>0.3</version>
+    <title>Famfamfam-Mini</title>
+    <authors>T1st3</authors>
+    <owners>t1st3</owners>
+    <description>Famfamfam-Mini, made available in various package managers, shipped with CSS spritesheet</description>
+    <releaseNotes>https://github.com/T1st3/famfamfam-mini/releases</releaseNotes>
+    <summary>Famfamfam-Mini</summary>
+    <language>en-us</language>
+    <projectUrl>https://github.com/T1st3/famfamfam-mini</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/T1st3/famfamfam-mini/master/dist/sprite/famfamfam-mini.png</iconUrl>
+    <licenseUrl>https://github.com/T1st3/famfamfam-mini#original-readme-from-author-of-the-icons</licenseUrl>
+    <copyright>Copyright 2015</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+    </dependencies>
+    <tags>famfamfam mini gif icons spritesheet css</tags>
+  </metadata>
+  <files>
+    <file src="dist\*.*" target="content\Content" />
+  </files>
+</package>
