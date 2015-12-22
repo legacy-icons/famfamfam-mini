@@ -20,6 +20,7 @@
     <tags>famfamfam mini gif icons spritesheet css</tags>
   </metadata>
   <files>
-    <file src="dist\*.*" target="content\Content" />
+    <file src="dist\gif\*.*" target="content\Content\gif" />
+    <file src="dist\sprite\*.*" target="content\Content\sprite" />
   </files>
 </package>
