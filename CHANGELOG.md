@@ -1,0 +1,78 @@
+## Change Log
+
+### upcoming (2015/12/31 13:52 +00:00)
+- [#2](https://github.com/t1st3/famfamfam-mini/pull/2) chore(package): update gulp-minify-css to version 1.2.3 (@T1st3)
+- [58d9eec](https://github.com/T1st3/famfamfam-mini/commit/58d9eec171fbf2dcbf155df286105b141393921d) chore(package): update gulp-minify-css to version 1.2.3 (@greenkeeperio-bot)
+
+### 0.3.5 (2015/12/22 12:43 +00:00)
+- [e329719](https://github.com/T1st3/famfamfam-mini/commit/e3297198475e8ed94aa9a5dda6f1c899dedfafe3) chore: v0.3.5 (@T1st3)
+- [33c8176](https://github.com/T1st3/famfamfam-mini/commit/33c81763a2706afcae28d449d822f13148b5a84a) fix: nuspec files (@T1st3)
+
+### 0.3.4 (2015/12/22 12:29 +00:00)
+- [43431b6](https://github.com/T1st3/famfamfam-mini/commit/43431b63313345093974d3edcebef8acd58094d8) chore: v0.3.4 (@T1st3)
+- [e63e6c4](https://github.com/T1st3/famfamfam-mini/commit/e63e6c46aab87d29e4710bf4242f35118fec1e91) feat: add MyGet deployment files and support for NuGet (@T1st3)
+- [#1](https://github.com/t1st3/famfamfam-mini/pull/1) Update all dependencies 🌴 (@T1st3)
+- [dc1f2ee](https://github.com/T1st3/famfamfam-mini/commit/dc1f2ee1fb8f7be0e467d8c88b47df401fe8e849) chore(package): update dependencies (@greenkeeperio-bot)
+- [aed0711](https://github.com/T1st3/famfamfam-mini/commit/aed0711643b87cba254b9efaed6b445c78eed0d2) chore: fix build task (@T1st3)
+- [2759e34](https://github.com/T1st3/famfamfam-mini/commit/2759e34c8729954f8a50fbdd92eb672e6e179cde) chore: update NPM deps (del) (@T1st3)
+- [e7123de](https://github.com/T1st3/famfamfam-mini/commit/e7123ded901d7c7cc26ff6143e9f28931f21cb90) chore: update.travis.yml to use Travis container-based infra (@T1st3)
+
+### 0.3.3 (2015/07/28 00:56 +00:00)
+- [e70dd4c](https://github.com/T1st3/famfamfam-mini/commit/e70dd4ce6c06c92c1d23a7f5b45538617f7accb8) chore: v0.3.3 (@T1st3)
+- [4e9309c](https://github.com/T1st3/famfamfam-mini/commit/4e9309cf2859517597b1e0114a312ec518f537f2) chore: update npm deps (@T1st3)
+- [48dfe25](https://github.com/T1st3/famfamfam-mini/commit/48dfe255096e6ce1e9c7961c93c1cb1c9e65214e) chore: update npm dev-deps (@T1st3)
+- [d26af41](https://github.com/T1st3/famfamfam-mini/commit/d26af414da0389cd952b3e1c3eabf53299b0f16b) docs: update README (@T1st3)
+- [bf3b991](https://github.com/T1st3/famfamfam-mini/commit/bf3b991748d8dd0f31f9d461d196a49d7d4aca0d) docs: update README (@T1st3)
+- [369b10e](https://github.com/T1st3/famfamfam-mini/commit/369b10e68b62c2748db1e25f066b15c89a118eb6) chore: update bower ignores (@T1st3)
+- [0078a22](https://github.com/T1st3/famfamfam-mini/commit/0078a22b1546eb673f283668c64ee5fb97008cb1) docs: include spritesheet to README (@T1st3)
+- [fdbe240](https://github.com/T1st3/famfamfam-mini/commit/fdbe240d6a300caa5ecd5d3eedaba6e07c926909) docs: add build badge in README (@T1st3)
+- [2e55980](https://github.com/T1st3/famfamfam-mini/commit/2e5598091a413b7fbe422ad9fd15966fd6f0d0e9) docs: add dependency badge in README (@T1st3)
+
+### 0.3.2 (2015/03/19 16:24 +00:00)
+- [371efa9](https://github.com/T1st3/famfamfam-mini/commit/371efa93000aa76edeb0677208a71ff0eb1c3374) chore: v0.3.2 (@T1st3)
+- [00a7cfc](https://github.com/T1st3/famfamfam-mini/commit/00a7cfcef0d9fc852f1f63b431bb0322ac74ed70) docs: update mention to spritesheets in README (@T1st3)
+- [bd461e4](https://github.com/T1st3/famfamfam-mini/commit/bd461e4eb41f0d13afdba246a75c001eceac608d) docs: add mention to spritesheet in README (@T1st3)
+
+### 0.3.1 (2015/03/18 17:52 +00:00)
+- [6695f13](https://github.com/T1st3/famfamfam-mini/commit/6695f131e0ca1bc42188a784470eaab0e6ba1fab) chore: v0.3.1 (@T1st3)
+- [1ae1756](https://github.com/T1st3/famfamfam-mini/commit/1ae175683f0596af33938f85c2626d783104b45b) fix: update travis.yml to fix CI error (@T1st3)
+
+### 0.3.0 (2015/03/18 16:55 +00:00)
+- [0a18abe](https://github.com/T1st3/famfamfam-mini/commit/0a18abe72f44c06fdad6a63c95a18105e2176f97) chore: v0.3.0 (@T1st3)
+- [9199fdb](https://github.com/T1st3/famfamfam-mini/commit/9199fdb8bc0fa1852cabd8c898a2b130b25cf0e7) feat: build with imagemin, add spritesheet (@T1st3)
+- [02c8d5b](https://github.com/T1st3/famfamfam-mini/commit/02c8d5b5a38ff964b8f8ed11620185c99f7701bb) chore: add icons to README (@T1st3)
+- [306444a](https://github.com/T1st3/famfamfam-mini/commit/306444a566975bd60bbc457b21fea9fc54dbc64c) feat: add NPM deps and a 1st gulp task: gulp info (@T1st3)
+- [8d20a07](https://github.com/T1st3/famfamfam-mini/commit/8d20a072a9d8f61bc813b2db3967b957b6bdb7fc) chore: update .npmignore to exclude composer files (@T1st3)
+
+### 0.2.4 (2015/03/10 21:59 +00:00)
+- [e92b4f8](https://github.com/T1st3/famfamfam-mini/commit/e92b4f8b93755e8326931cf079dbd3d6a74ba0df) chore: v0.2.4 (@T1st3)
+- [a24a579](https://github.com/T1st3/famfamfam-mini/commit/a24a57970321b0142f1771aed42b331e00cb4311) chore: update package.json files (@T1st3)
+
+### 0.2.3 (2015/03/10 21:57 +00:00)
+- [334dd44](https://github.com/T1st3/famfamfam-mini/commit/334dd44dece23360b96e1781f8dd955e5b72908b) chore: v0.2.3 (@T1st3)
+- [49e0cd5](https://github.com/T1st3/famfamfam-mini/commit/49e0cd5db6c07026da4cbeb7b694a21df7641549) chore: update package.json files (@T1st3)
+- [858c3bd](https://github.com/T1st3/famfamfam-mini/commit/858c3bd6abc537b08b6f4e6af2f426c7664c7d45) chore: update bower.json ignores (@T1st3)
+- [43ebbba](https://github.com/T1st3/famfamfam-mini/commit/43ebbba9b10030ee16ed1c32a2ae8334fe8f7af1) doc: fix packagist link in README (@T1st3)
+
+### 0.2.2 (2015/03/10 06:43 +00:00)
+- [5748bdd](https://github.com/T1st3/famfamfam-mini/commit/5748bddd8c19b777559330ec29b0c7807b0480cd) chore: v0.2.2 (@T1st3)
+- [bf8e4cb](https://github.com/T1st3/famfamfam-mini/commit/bf8e4cb65b8cdcc610390092308dcc9bfec5242f) feat: add auto-deploy on Travis (@T1st3)
+
+### 0.2.1 (2015/03/10 06:25 +00:00)
+- [956d4cc](https://github.com/T1st3/famfamfam-mini/commit/956d4ccafeb65f9d37492e55bbdea8b8024a5d2f) chore: v0.2.1 (@T1st3)
+- [de217f0](https://github.com/T1st3/famfamfam-mini/commit/de217f07b7a81d76e5885bf8f70bb77ccf8979a6) fix: update project keywords in .json files (@T1st3)
+
+### 0.2.0 (2015/03/10 06:09 +00:00)
+- [84aa088](https://github.com/T1st3/famfamfam-mini/commit/84aa088d91cdf32b03c054096f51af35ca7d1167) feat: change owner to t1st3, v0.2.0 (@T1st3)
+
+### 0.1.1 (2014/02/28 01:47 +00:00)
+- [6aec6c2](https://github.com/T1st3/famfamfam-mini/commit/6aec6c2435fe013d1dbe2dbf382a664654e893a2) Bump to v0.1.1 (@T1st3)
+- [7e413a2](https://github.com/T1st3/famfamfam-mini/commit/7e413a2c1d685b7066f67125631ed5af09313566) Add composer.json (@jonrandoem)
+- [2784aa2](https://github.com/T1st3/famfamfam-mini/commit/2784aa2286fc4f0d54f30e8f7c9afe247d036608) Add Readme (@T1st3)
+- [d98542f](https://github.com/T1st3/famfamfam-mini/commit/d98542fec8027a9e723af56d6ad3aa4c0fb1098e) Add Readme (@T1st3)
+- [a667338](https://github.com/T1st3/famfamfam-mini/commit/a6673388b930c7c53c2a38472f252b7457272ee8) Add bower.json (@T1st3)
+- [971024f](https://github.com/T1st3/famfamfam-mini/commit/971024ff2eb5465030db5cc398bbae8ebc0204cb) Add bowerrc (@T1st3)
+- [bf70f1c](https://github.com/T1st3/famfamfam-mini/commit/bf70f1cfa8ddc5cde21ef8925ddb4f72aba4aa65) Add package.json (@T1st3)
+- [053c68f](https://github.com/T1st3/famfamfam-mini/commit/053c68f8975271ce05c9c87bceb5844afc14add1) Add icons (@T1st3)
+- [026e96b](https://github.com/T1st3/famfamfam-mini/commit/026e96b74cd1bcc9d2f19e1f4094540efe8c411f) Add .gitignore (@T1st3)
+- [f0df44b](https://github.com/T1st3/famfamfam-mini/commit/f0df44b2c83bec728c1b03e307834f1776f4b24f) Initial commit (@T1st3)
