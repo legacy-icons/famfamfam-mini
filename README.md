@@ -157,7 +157,3 @@ If, for example you just want `action_stop` and `page_right` icons in a spritesh
 empty the `src` directory, except `action_stop` and `page_right` icons in GIF format, and then run the `gulp build` task.
 
 You'll get the proper spritesheet and copies of the icons directly in the `dist` folder.
-
-
-
-
