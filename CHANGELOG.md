@@ -1,6 +1,12 @@
 ## Change Log
 
-### upcoming (2015/12/31 13:52 +00:00)
+### 0.3.6 (2016/01/19 14:14 +00:00)
+- [8d20326](https://github.com/T1st3/famfamfam-mini/commit/8d2032627890945329012e5e93813f94893c5e9a) chore: v0.3.6 (@T1st3)
+- [39d7154](https://github.com/T1st3/famfamfam-mini/commit/39d7154f2789fb22b127e9ca29f6d408f1eb7df2) chore: update deps versions with caret ranges (@T1st3)
+- [67685df](https://github.com/T1st3/famfamfam-mini/commit/67685df07ebe24f8b6795deb05f5a512e3083baa) chore: replace gulp-minify-css with gulp-cssnano (@T1st3)
+- [24e6828](https://github.com/T1st3/famfamfam-mini/commit/24e6828a3359c17bda30b256c131befa2922b207) chore: remove figlets, cows and notifications (@T1st3)
+- [a1111b8](https://github.com/T1st3/famfamfam-mini/commit/a1111b89313fe7997658fcd63a2ad94dfd905487) chore: add newline at end of config and .md files (@T1st3)
+- [ce3419f](https://github.com/T1st3/famfamfam-mini/commit/ce3419f270257fb4426c8f3a1a706ca86214981e) docs: add CHANGELOG.md (@T1st3)
 - [#2](https://github.com/t1st3/famfamfam-mini/pull/2) chore(package): update gulp-minify-css to version 1.2.3 (@T1st3)
 - [58d9eec](https://github.com/T1st3/famfamfam-mini/commit/58d9eec171fbf2dcbf155df286105b141393921d) chore(package): update gulp-minify-css to version 1.2.3 (@greenkeeperio-bot)
 
