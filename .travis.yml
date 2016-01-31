@@ -11,4 +11,4 @@ deploy:
     secure: BXZkpcgWEgdZYI+qb2BKIshHa38H8zKI2gVjgqQA//XgYzgQ4hxK2Ab0peL3vKB+DmPcn9WDfnHPQBrQbpUwIvxFjNIuKMRG1FG5jjyQjnr2sBaj8A0Pb7S+v/LmVGYBO4KbPD7pPjYhA+mm7AkG7c+MCFdUKJ0kaCSD4qh9yR8=
   on:
     tags: true
-    repo: T1st3/famfamfam-mini
+    repo: t1st3/famfamfam-mini

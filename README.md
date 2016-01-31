@@ -7,8 +7,8 @@ famfamfam-mini
 [![Packagist version](https://img.shields.io/packagist/v/t1st3/famfamfam-mini.svg)](https://packagist.org/packages/t1st3/famfamfam-mini)
 [![Nuget version](https://img.shields.io/nuget/v/famfamfam-mini.svg)](https://www.nuget.org/packages/famfamfam-mini/)
 
-[![Dependency Status](https://img.shields.io/david/dev/T1st3/famfamfam-mini.svg)](https://david-dm.org/t1st3/famfamfam-mini)
-[![Build Status](https://img.shields.io/travis/T1st3/famfamfam-mini.svg)](https://travis-ci.org/T1st3/famfamfam-mini)
+[![Dependency Status](https://img.shields.io/david/dev/t1st3/famfamfam-mini.svg)](https://david-dm.org/t1st3/famfamfam-mini)
+[![Build Status](https://img.shields.io/travis/t1st3/famfamfam-mini.svg)](https://travis-ci.org/t1st3/famfamfam-mini)
 
 
 
@@ -45,7 +45,7 @@ In addition to the icons by themselves, this project also ships a CSS spriteshee
 
 This is what it actually looks:
 
-![Spritesheet](https://raw.githubusercontent.com/T1st3/famfamfam-mini/master/dist/sprite/famfamfam-mini.png)
+![Spritesheet](https://raw.githubusercontent.com/t1st3/famfamfam-mini/master/dist/sprite/famfamfam-mini.png)
 
 
 All the positioning of the icons inside this alone image is made through CSS, which allows you to just add block-type tags with the proper class and get the same result:
