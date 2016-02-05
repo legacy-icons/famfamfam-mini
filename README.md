@@ -1,6 +1,4 @@
-famfamfam-mini
-===============
-
+# famfamfam-mini
 
 [![NPM version](https://img.shields.io/npm/v/famfamfam-mini.svg)](https://www.npmjs.org/package/famfamfam-mini)
 [![Bower version](https://img.shields.io/bower/v/famfamfam-mini.svg)](http://bower.io/search/?q=famfamfam-mini)
@@ -13,8 +11,7 @@ famfamfam-mini
 
 
 
-About
-----------
+## About
 
 The `Mini` icon pack, as available on [famfamfam website](http://www.famfamfam.com/lab/icons/mini/).
 
@@ -31,13 +28,12 @@ The aim of this project is to make this icon pack available through various pack
 All icons are supplied in GIF format.
 
 
-CSS spritesheets
-----------
+## CSS spritesheets
 
 You can insert the icons directly into your HTML with a common IMG tag:
 
-```
-    <img alt="Refresh" src="dist/gif/action_refresh_blue.gif" width="16" height="16">
+```html
+<img alt="Refresh" src="dist/gif/action_refresh_blue.gif" width="16" height="16">
 ```
 
 
@@ -50,83 +46,36 @@ This is what it actually looks:
 
 All the positioning of the icons inside this alone image is made through CSS, which allows you to just add block-type tags with the proper class and get the same result:
 
-```
-    <div class="famfamfam-mini action_refresh_blue"></div>
+```html
+<div class="famfamfam-mini action_refresh_blue"></div>
 ```
 
 Just remember to add the CSS stylesheet to the HEAD of your HTML page!
 
 
+## Install
 
 Get the package with NPM
-----------
 
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-npm install famfamfam-mini
-```
+> npm install famfamfam-mini
 
 
 Get the package with Bower
-----------
 
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-bower install famfamfam-mini
-```
+> bower install famfamfam-mini
 
 
 Get the package with Composer / Packagist
-----------
 
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-composer require t1st3/famfamfam-mini
-```
+> composer require t1st3/famfamfam-mini
 
 
 Get the package with NuGet
-----------
 
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-Install-Package famfamfam-mini
-```
+> Install-Package famfamfam-mini
 
 
-
-
-Original readme (from author of the icons)
-----------
-
-mini icons - famfamfam.com
-Contact: mjames@gmail.com
-
-
-```
-“Mini” is a set of 144 GIF icons available for free use for any purpose.
-```
-
-
-
-About the rest (all this repository but the icons)
-----------
-
-All the content of this repository (excepted the icon pack) 
-is licensed under the [MIT license](http://opensource.org/licenses/MIT).
-
-Though, it is just composed a few trivial json files and a Readme.
-
-
-
-
-Build (the whole project or your custom project)
-----------
-
+## Build the whole project or your custom project
 
 We use [Gulp](http://gulpjs.com/) to build the project, so if you want to re-build or customize this project, you'll need Gulp.
 
@@ -134,28 +83,21 @@ After gulp is installed, and your CLI is pointed to your work directory, first i
 
 **with NPM 2.x.x**
 
-```
-npm install
-```
+> npm install
 
 **with NPM 3.x.x** (resolve dependencies for `node-spritesheet` before this module's ones)
 
-```
-npm install grunt grunt-contrib-coffee grunt-contrib-clean
-npm install
-```
+> npm install grunt grunt-contrib-coffee grunt-contrib-clean
+> npm install
 
 then be sure that you have *[ImageMagick](http://www.imagemagick.org/script/binary-releases.php)* installed for building spritesheet.
 
 then, you can run the `gulp build` task to build the project:
 
-
-```
-gulp build
-```
+> gulp build
 
 
-**What the build task does?**
+### What the build task does?
 
 First, it copies GIF files from the `src` folder, and pastes them to the `dist` folder.
 
@@ -165,3 +107,22 @@ If, for example you just want `action_stop` and `page_right` icons in a spritesh
 empty the `src` directory, except `action_stop` and `page_right` icons in GIF format, and then run the `gulp build` task.
 
 You'll get the proper spritesheet and copies of the icons directly in the `dist` folder.
+
+
+## License
+
+### Original readme (from author of the icons)
+
+mini icons - famfamfam.com
+Contact: mjames@gmail.com
+
+```
+"Mini" is a set of 144 GIF icons available for free use for any purpose.
+```
+
+### About the rest (all this repository but the icons)
+
+All the content of this repository (excepted the icon pack) 
+is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+Though, it is just composed a few trivial json files and a Readme.
