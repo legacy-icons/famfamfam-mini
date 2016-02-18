@@ -1,6 +1,7 @@
 ## Change Log
 
-### 0.3.7 (2016/02/15 09:44 +00:00)
+### 0.3.7 (2016/02/15 09:45 +00:00)
+- [7b435cd](https://github.com/legacy-icons/famfamfam-mini/commit/7b435cd3fee51c72dce7c24014f7d8a50c0ef370) chore: v0.3.7 (@t1st3)
 - [#4](https://github.com/legacy-icons/famfamfam-mini/pull/4) chore(package): update gulp-cssnano to version 2.1.1 (@t1st3)
 - [ba0077e](https://github.com/legacy-icons/famfamfam-mini/commit/ba0077e21f4b543c3c8cb3889a5599557b19c07b) chore(package): update gulp-cssnano to version 2.1.1 (@greenkeeperio-bot)
 - [#3](https://github.com/legacy-icons/famfamfam-mini/pull/3) chore(package): update gulp to version 3.9.1 (@t1st3)
