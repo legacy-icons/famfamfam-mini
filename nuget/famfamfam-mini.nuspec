@@ -12,7 +12,7 @@
     <language>en-us</language>
     <projectUrl>https://github.com/legacy-icons/famfamfam-mini</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/legacy-icons/famfamfam-mini/master/dist/sprite/famfamfam-mini.png</iconUrl>
-    <licenseUrl>https://github.com/legacy-icons/famfamfam-mini/LICENSE.md</licenseUrl>
+    <licenseUrl>https://github.com/legacy-icons/famfamfam-mini/blob/master/LICENSE.md</licenseUrl>
     <copyright>Copyright 2015</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
