@@ -7,12 +7,12 @@
     <authors>t1st3</authors>
     <owners>t1st3</owners>
     <description>Famfamfam-Mini, made available in various package managers, shipped with CSS spritesheet</description>
-    <releaseNotes>https://github.com/t1st3/famfamfam-mini/releases</releaseNotes>
+    <releaseNotes>https://github.com/legacy-icons/famfamfam-mini/releases</releaseNotes>
     <summary>Famfamfam-Mini</summary>
     <language>en-us</language>
-    <projectUrl>https://github.com/t1st3/famfamfam-mini</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/t1st3/famfamfam-mini/master/dist/sprite/famfamfam-mini.png</iconUrl>
-    <licenseUrl>https://github.com/t1st3/famfamfam-mini#original-readme-from-author-of-the-icons</licenseUrl>
+    <projectUrl>https://github.com/legacy-icons/famfamfam-mini</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/legacy-icons/famfamfam-mini/master/dist/sprite/famfamfam-mini.png</iconUrl>
+    <licenseUrl>https://github.com/legacy-icons/famfamfam-mini/LICENSE.md</licenseUrl>
     <copyright>Copyright 2015</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>

@@ -1,6 +1,6 @@
 {
-  "name": "t1st3/famfamfam-mini",
-  "homepage": "https://github.com/t1st3/famfamfam-mini",
+  "name": "legacy-icons/famfamfam-mini",
+  "homepage": "https://github.com/legacy-icons/famfamfam-mini",
   "description": "FamFamFam Mini icon pack",
   "keywords": [
     "icon",
@@ -20,7 +20,7 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/t1st3/famfamfam-mini/issues/"
+    "issues": "https://github.com/legacy-icons/famfamfam-mini/issues/"
   },
   "type": "library",
   "extra": {
